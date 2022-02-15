@@ -33,7 +33,7 @@ SO THAT I can reliably retrieve them for later use
 
 A video walk through of the Insomnia testing is below:
 
-[Video Walkthrough](https://drive.google.com/file/d/1bxjjC2JcQku-lga2XpnhjWuaMmtC1244/view?usp=sharing)
+[Video Walkthrough](https://drive.google.com/file/d/1ewXEPzFoTsfRSsmznkHdDQMe04f3P2L-/view?usp=sharing)
 
 ## Credits
 
