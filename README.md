@@ -31,9 +31,7 @@ SO THAT I can reliably retrieve them for later use
 
 ![Screenshot of Final Code](./assets/jate_screenshot.png)
 
-A video walk through of the Insomnia testing is below:
-
-[Video Walkthrough](https://drive.google.com/file/d/1ewXEPzFoTsfRSsmznkHdDQMe04f3P2L-/view?usp=sharing)
+A video walk through of the functionality can be found here: [Video Walkthrough](https://drive.google.com/file/d/1ewXEPzFoTsfRSsmznkHdDQMe04f3P2L-/view?usp=sharing)
 
 ## Credits
 
