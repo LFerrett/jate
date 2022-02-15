@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
+    "mini-css-extract-plugin": "^2.5.3",
     "nodemon": "^2.0.4"
   }
 }
